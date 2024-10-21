@@ -3,9 +3,13 @@ Agritrack is a web application built using Django and Python REST API to efficie
 
 #Features:
 ➾ Grain Inventory Management: Track and manage grain stock levels.
+
 ➾ Superstore Management: Add, update, or remove superstore records.
+
 ➾ Delivery Scheduling: Plan and track grain deliveries to various locations.
+
 ➾ CRUD Operations: Create, read, update, and delete records for grains, stores, and deliveries.
+
 ➾ RESTful API Integration: Easy integration with external systems via API for data management.
 
 #Technologies:
