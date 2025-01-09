@@ -25,7 +25,7 @@ Agritrack is a web application built using Django and Python REST API to efficie
 
 ##Video Demo:
 
-Below, I have posted a video where I run the project and perform various CRUD operations, explaining how each feature works
+Below, I have posted a video where I ran the project and perform various CRUD operations, explaining how each feature works
 
               👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
               
